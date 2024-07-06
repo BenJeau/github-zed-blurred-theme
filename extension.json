@@ -1,9 +1,10 @@
 {
-  "name": "GitHub Theme",
-  "version": "0.0.2",
+  "name": "GitHub Blurred Theme",
+  "version": "0.0.1",
   "authors": [
-    "Pyae Sone Aung <pyaesoneaungrgn@gmail.com>"
+    "Pyae Sone Aung <pyaesoneaungrgn@gmail.com>",
+    "Benoit Jeaurond <benoit@jeaurond.dev>"
   ],
-  "description": "GitHub theme for Zed",
-  "repository": "https://github.com/PyaeSoneAungRgn/github-zed-theme"
+  "description": "Blurred GitHub theme for Zed",
+  "repository": "https://github.com/BenJeau/github-zed-blurred-theme"
 }
