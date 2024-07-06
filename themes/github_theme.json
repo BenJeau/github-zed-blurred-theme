@@ -420,7 +420,7 @@
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#24292eff",
         "search.match_background": "#ffd33d44",
-        "panel.background": "#1f242830",
+        "panel.background": "#1f242890",
         "panel.focused_border": "#1b1f23ff",
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#6a737d33",
